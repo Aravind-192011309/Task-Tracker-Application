@@ -61,4 +61,4 @@ Task-Tracker-Application/
 
 ## Screenshot
 
-![Task Tracker Screenshot](Screenshot (5).png)
+![Task Tracker Screenshot](Screenshot%20(5).png)
