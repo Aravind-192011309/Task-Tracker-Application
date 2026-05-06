@@ -58,3 +58,7 @@ Task-Tracker-Application/
 
 ```bash
 ./mvnw spring-boot:run
+
+## Screenshot
+
+![Task Tracker Screenshot](Screenshot (5).png)
